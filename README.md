@@ -1,2 +1,2 @@
 # hello-world
-My first project for testing
+My first project for testing purpose
